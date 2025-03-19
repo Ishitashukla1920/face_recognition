@@ -1,4 +1,3 @@
-# Face Recognition Project
 # Face Recognition System
 
 ## Overview
